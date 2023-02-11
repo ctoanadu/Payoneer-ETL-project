@@ -14,3 +14,5 @@ Data / Analytics Engineer Homework Exercise: Design a suitable data schema for s
 2. Run etl.ipynb in jupyter notebook and execute each line of code one after the other.
 3. Run test.ipynb in jupyter notebook to check if the data was stored in the database. Also to display the results for the query.
 ## Note : The etl.ipynb and test.ipynb should be executed on a jupyter notebook.
+
+test1
